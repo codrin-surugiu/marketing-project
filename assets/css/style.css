@@ -792,7 +792,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: url("../img/about-bg.jpg") center center;
+  background: url("../../media/pexels-pixabay-259611.jpg");
   background-size: cover;
   position: relative;
   padding: 80px 0;
