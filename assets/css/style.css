@@ -1096,11 +1096,6 @@ section {
 /*--------------------------------------------------------------
 # Events
 --------------------------------------------------------------*/
-.events {
-  background: url(../img/events-bg.jpg) center center no-repeat;
-  background-size: cover;
-  position: relative;
-}
 
 .events::before {
   content: "";
