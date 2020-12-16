@@ -1097,16 +1097,6 @@ section {
 # Events
 --------------------------------------------------------------*/
 
-.events::before {
-  content: "";
-  background-color: rgba(0, 0, 0, 0.8);
-  position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-  bottom: 0;
-}
-
 .events .section-title h2 {
   color: #fff;
 }
@@ -1362,6 +1352,7 @@ section {
 }
 
 .testimonials .testimonial-item p {
+  height: 250px;
   font-style: italic;
   margin: 0 15px 0 15px;
   padding: 20px 20px 60px 20px;
@@ -1407,6 +1398,8 @@ section {
 }
 
 .gallery .gallery-item img {
+  width: 470px;
+  height: 415px;
   transition: all ease-in-out 0.4s;
 }
 
