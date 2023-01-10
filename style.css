@@ -1,10 +1,13 @@
 nav {
   background-color: #46473e !important;
 }
-
-.paralsec {
-  background-image: url("./media/pexels-pixabay-259611.jpg");
+#descriere .content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
+
+
 paral {
   min-height: 600px;
   background-attachment: fixed;
